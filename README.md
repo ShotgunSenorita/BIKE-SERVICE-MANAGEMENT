@@ -1,4 +1,9 @@
-# bike_service_center_app
+# bike_service_management java project 
+done by
+PRATEEK GODHWANI – PES1UG19CS600
+RUDRA SHARMA – PES1UG19CS398
+ RAGHUTTAM MIRJI – PES1UG19CS367
+
 Built using Java swing framework, window-based desktop application created by keeping in mind a typical bike service center.
 And to provide kind of, all in one application for the service center to manage and track their daily operations smoothly.
 
