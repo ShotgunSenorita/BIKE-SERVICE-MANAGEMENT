@@ -10,8 +10,8 @@ And to provide kind of, all in one application for the service center to manage 
 ---------------------------------------------------------------------------------------------------
 Technologies used
 
-Platform : J2SE
-Language:- java version "11.0.11" 2021-04-20 LTS
-         - java Swing Framework
-IDE : ECLIPSE
+Platform : J2SE,
+Language:- java version "11.0.11" 2021-04-20 LTS,
+         - java Swing Framework,
+IDE : ECLIPSE,
 Database - MySql (MySQL Community Server-GPL)
